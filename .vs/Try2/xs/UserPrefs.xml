@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{0408D5B7-C43A-AA3A-1570-F5E8428876CC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Rainbow.shader">
+    <Files>
+      <File FileName="Assets/Rainbow.shader" Line="31" Column="97" />
+      <File FileName="Assets/ShaderGraphTry.shader" />
+      <File FileName="Assets/ModernSmartphone/PostProcessing/Editor/PropertyDrawers/MinDrawer.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Try2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="ModernSmartphone" expanded="True">
+                <Node name="PostProcessing" expanded="True">
+                  <Node name="Editor" expanded="True">
+                    <Node name="PropertyDrawers" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Rainbow.shader" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="87a80861-3a15-420f-b49d-b4c70682d1f0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
